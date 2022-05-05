@@ -1,7 +1,7 @@
 ## About Csharp-Array-of-Multiples
 
 <p>https://edabit.com/challenge/2QvnWexKoLfcJkSsc</p>
-<p>Create a function that takes two numbers as arguments (num, length) and returns an array of multiples of num until the array length reaches length.</p>
+<p>Write a function that takes an integer i and returns a string with the integer backwards followed by the original integer.</p>
 
 ## Usage
 
