@@ -1,9 +1,8 @@
 ﻿using System;
 namespace Csharp_Array_of_Multiples
 {
-    internal class Program
+    class Program
     {
-        // https://edabit.com/challenge/2QvnWexKoLfcJkSsc
         private static void Main(string[] args)
         {
             program();
