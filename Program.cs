@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Csharp_Array_of_Multiples
 {
     class Program
@@ -7,7 +8,6 @@ namespace Csharp_Array_of_Multiples
         {
             program();
         }
-
         public static void program()
         {
             try
@@ -24,30 +24,24 @@ namespace Csharp_Array_of_Multiples
                     Console.WriteLine(item.ToString());
                 }     
             }
-            catch (Exception e)
+            catch (Exception x)
             {
                 Console.WriteLine("Wrong Input");
                 program();
-            }
-            
+            }  
         }
-
         public static List<int> multiple(int multiple_number, int length)
         {
             int it, number;
             List<int> numberList = new List<int>();
-
             for (it = 1;it < length; it++)
             {
                 number = multiple_number * it;
                 numberList.Add(number);
             }
-
             number = multiple_number * it;
             numberList.Add(number);
-
             return numberList;
         }
     }
-   
 }
