@@ -1,7 +1,7 @@
 ## About Csharp-Array-of-Multiples
 
 <p>https://edabit.com/challenge/2QvnWexKoLfcJkSsc</p>
-<pCreate a function that takes two numbers as arguments (num, length) and returns an array of multiples of num until the array length reaches length..</p>
+<p>Create a function that takes two numbers as arguments (num, length) and returns an array of multiples of num until the array length reaches length..</p>
 
 ## Usage
 
