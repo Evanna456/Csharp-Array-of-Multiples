@@ -22,7 +22,8 @@ namespace Csharp_Array_of_Multiples
                 foreach (var item in array_result)
                 {
                     Console.WriteLine(item.ToString());
-                }     
+                }
+                Console.ReadLine();
             }
             catch (Exception x)
             {

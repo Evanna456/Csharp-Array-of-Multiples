@@ -6,6 +6,7 @@
     <RootNamespace>Csharp_Array_of_Multiples</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Csharp_Array_of_Multiples.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
